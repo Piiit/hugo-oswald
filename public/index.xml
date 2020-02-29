@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Wanderführer Oswald Moser</title>
+    <link>https://oswaldmoser.netlify.com/</link>
+    <description>Recent content on Wanderführer Oswald Moser</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oswaldmoser.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tourenbeschreibung</title>
+      <link>https://oswaldmoser.netlify.com/blog/simple-blog-post-1/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://oswaldmoser.netlify.com/blog/simple-blog-post-1/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Tourenbeschreibung 2</title>
+      <link>https://oswaldmoser.netlify.com/blog/simple-blog-post-2/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://oswaldmoser.netlify.com/blog/simple-blog-post-2/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Tourenbeschreibung 3</title>
+      <link>https://oswaldmoser.netlify.com/blog/simple-blog-post-2-copy/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://oswaldmoser.netlify.com/blog/simple-blog-post-2-copy/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Oswald Moser</title>
+      <link>https://oswaldmoser.netlify.com/author/oswald-moser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oswaldmoser.netlify.com/author/oswald-moser/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
     
   </channel>
 </rss>

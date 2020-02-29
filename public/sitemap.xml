@@ -3,15 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://oswaldmoser.netlify.com/blog/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://oswaldmoser.netlify.com/blog/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://oswaldmoser.netlify.com/blog/simple-blog-post-2/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oswaldmoser.netlify.com/blog/simple-blog-post-2-copy/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oswaldmoser.netlify.com/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oswaldmoser.netlify.com/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://oswaldmoser.netlify.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://oswaldmoser.netlify.com/author/oswald-moser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://oswaldmoser.netlify.com/tags/</loc>
   </url>
   
 </urlset>
