@@ -1,0 +1,23 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Kontakt
+  subtitle : Kontakt Details
+  content : Oswald Moser
+  form_action: "#" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Meranerstraße 15, 39011 Lana bei Meran"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Mobil: +39 345 271 4385"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: ossychristl@gmail.com"
+
+  contact_form :
+    - name : "Ihr Namen"
+      email : "Ihre Email"
+      subject : "Betreff"
+      message : "Nachricht"

@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/matteo-catanese-kSYwKLhTNz0-unsplash.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Schöne Touren & Erfahrungen"
+  content : "Südtirol hat ein gigantisches Repertoire an Natur im Angebot: eine kontrastreiche Landschaft in den Ausformungen alpin und mediterran, lokale Produkte kleinstrukturierter Landwirtschaft und mit der Landschaft verwurzelte Menschen"
+  button:
+    enable : true
+    label : "Kontaktieren Sie mich noch heute"
+    link : "#contact"

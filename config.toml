@@ -1,0 +1,60 @@
+baseURL = "https://oswaldmoser.bz.it/"
+languageCode = "de-DE"
+title = "Wanderführer Oswald Moser"
+theme = "meghna"
+defaultContentLanguage = "de"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "15"
+
+############################# Navigation ##################################
+[[menu.main]]
+name = "Über mich"
+URL = "feature"
+weight = 1
+
+[[menu.main]]
+name = "Touren"
+URL = "blog"
+weight = 2
+
+[[menu.main]]
+name = "Kontakt"
+URL = "contact"
+weight = 3
+
+################################ German Language ########################
+[Languages.de]
+languageName = "De"
+languageCode = "de-DE"
+contentDir = "content/deutsch"
+weight = 1
+home = "Home"
+
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"

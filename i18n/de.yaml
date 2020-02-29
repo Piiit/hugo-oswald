@@ -1,0 +1,26 @@
+- id: blogTitle
+  translation: Touren
+- id: readMore
+  translation: Mehr erfahren
+- id: viewAllPost
+  translation: Zeige alle Touren
+- id: share
+  translation: Teile
+- id: aboutAuthor
+  translation: Über den Autor
+- id: authorsPosts
+  translation: Touren dieses Autors
+- id: submit
+  translation: Absenden
+- id: name
+  translation: Ihr Namen
+- id: email
+  translation: Ihre Email
+- id: subject
+  translation: Betreff
+- id: message
+  translation: Nachricht
+- id: all
+  translation: Alle
+- id: copyright
+  translation: copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved

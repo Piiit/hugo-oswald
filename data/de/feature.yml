@@ -1,0 +1,24 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/Oswald.jpg
+  # image_webp : images/about/about-business-man.webp
+  title : Wanderleiter Oswald Moser.
+  content : "Oswald Moser (Jahrgang 1955) konnte 2013 erfolgreich die Landesprüfung als Südtiroler Wanderleiter absolvieren und ist im Verzeichnis der Berg- und Schiführer als Wanderleiter ordnungsgemäß eingetragen. Er spricht deutsch und italienisch."
+  feature_item : 
+      # feature item loop
+    - title : Förster
+      icon : ti-book # themify icon pack : https://themify.me/themify-icons
+      content : Schon seit meiner Kindheit haben mich die Berge Südtirols fasziniert. Die Bergwälder konnte ich dann in späteren Jahren als Förster über fast 4 Jahrzehnte naturnah mitgestalten.
+
+    - title : Erkundungen
+      icon : ti-map-alt # themify icon pack : https://themify.me/themify-icons
+      content : Das UNESCO Naturerbe Dolomiten, verschiedene Schlucht- und Waalwege Südtirols sowie die Gletscherpfade der Ortlergruppe sind nur einige der Gebiete, die ich mit Ihnen gerne erkunden möchte.
+
+    - title : Erfahrung
+      icon : ti-direction # themify icon pack : https://themify.me/themify-icons
+      content : Nach vielen Jahren als Förster, Alpinist und Wanderleiter kann ich behaupten, viele schöne Plätze und Wanderrouten in Südtirol zu kennen.
+
+    - title: Ich würde mich freuen, ...
+      icon : ti-face-smile
+      content : Sie auf ein Wandererlebis im Sommer, als auch im Winter begleiten zu dürfen.
