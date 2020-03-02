@@ -1,8 +1,8 @@
 ---
-title: "Tourenbeschreibung"
+title: "Tour #1"
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/backgrounds/ales-krivec-fuT-m1yzUG4-unsplash.jpg
+image_webp: images/blog/blog-post-1.webp
+image: images/blog/blog-post-1.jpg
 author: Oswald Moser
 description : "This is meta description"
 ---

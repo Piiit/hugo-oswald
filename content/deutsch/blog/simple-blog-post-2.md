@@ -1,8 +1,8 @@
 ---
-title: "Tourenbeschreibung 2"
+title: "Tour #2"
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/backgrounds/matteo-catanese-kSYwKLhTNz0-unsplash.jpg
+image_webp: images/blog/blog-post-2.webp
+image: images/blog/blog-post-2.jpg
 author: Oswald Moser
 description : "This is meta description"
 ---

@@ -84,3 +84,11 @@ We are available for Hiring of your next HUGO project. Drop Us a mail [themefish
 | **Enov** | **Vixcon** | **Orbitor** |
 | [![Agen](https://gethugothemes.com/wp-content/uploads/edd/2019/09/agen-hugo-theme.jpg)](https://gethugothemes.com/products/agen-hugo/) | [![Navigator](https://gethugothemes.com/wp-content/uploads/edd/2019/08/Navigator.jpg)](https://gethugothemes.com/products/navigator/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
 | **Agen** | **Navigator** | **More Hugo Themes** |
+
+
+# Make webp images
+
+```shell
+$ apt install webp
+$ cwebp -q 90 example.jpeg -o example.webp
+``` 
