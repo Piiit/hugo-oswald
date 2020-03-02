@@ -8,7 +8,7 @@ contact:
 
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Meranerstraße 15, 39011 Lana bei Meran"
+      info : "Meranerstraße 13, 39011 Lana bei Meran"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Mobil: +39 345 271 4385"
