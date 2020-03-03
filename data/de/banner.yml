@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/background01-1900-less.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Wandern in Südtirol"
-  content : "Mit dem ehemaligen Förster und Wanderführer Oswald Moser"
+  content : "Mit dem ehemaligen Förster und Wanderführer<br />Oswald Moser"
   button:
    enable : true
    label : "Mehr erfahren"
