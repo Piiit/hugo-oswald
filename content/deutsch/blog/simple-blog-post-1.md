@@ -1,18 +1,17 @@
 ---
-title: "Tour #1"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-1.webp
-image: images/blog/blog-post-1.jpg
+title: "Gletscherpfad Martelltal & Plima Schlucht"
+date: 2020-03-04T08:52:36+06:00
+image_webp: images/blog/gletscherpfadmartell.webp
+image: images/blog/gletscherpfadmartell.jpg
 author: Oswald Moser
-description : "This is meta description"
+description : "Rundwanderung"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+**Rundwanderung**
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Gletscher sind Eisströme in Hochgebirgen und Polarländern. Sie entstehen aus feinem Schnee, der durch Schmelzen und Wiedergefrieren zusammen= backt. Durch den Druck der eigenen Masse wird aus dem Schnee langsam festes Eis.  Eine wunderbare Möglichkeit, mehr über Gletscher zu erfahren, bietet der Gletscherpfad im Martelltal.
 
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Auf dem Rückweg erleben wir auf drei Aussichtspunkten und einer Hängebrücke die Plima als tosenden Gebirgsbach hautnah, dessen Wasser durch eine tiefe Schlucht talauswärts strebt und bei Latsch in die Etsch mündet.
+Bei einer Bergweg-Strecke von rund 10 km mit einem Höhenunterschied im Aufstieg von ca. 600 m hat diese Wanderung einen ringförmigen Verlauf.
+Leichter Bergweg ---  Reine Gehzeit: ca. 4,5 Std.  ---  Max. Höhe 2590 m
+Ausrüstung: Wanderschuhe, Regen.- und Sonnenschutz, genügend Getränke (wir werden in der Martellerhütte einkehren).
