@@ -2,6 +2,8 @@
 
 {{ partial "navigation.html" . }}
 
+{{ $data := index .Page.Data .Site.Language.Lang }}
+
 <section class="section">
   <div class="container">
     <div class="row">
@@ -15,7 +17,45 @@
       </div>
       <div class="col-lg-8 offset-lg-2">
         <div class="post-single-content">
+          <hr />
           {{ .Content }}
+          <hr />
+          <div class="row">
+          <div class="media">
+            <div class="align-self-start mr-2">
+              <i class="ti-direction"> L&auml;nge</i>
+            </div>
+            <div class="media-body">
+              <p>{{ $.Param "length" }}</p>
+            </div>
+            <div class="align-self-start mr-3">
+              <i class="ti-alarm-clock"> Reine Gehzeit</i>
+            </div>
+            <div class="">
+              <p>{{ $.Param "time" }}</p>
+            </div>
+          </div>
+        </div>
+          <div class="row">
+            <div class="align-self-start mr-3">
+              <i class="ti-ruler"> Max. H&ouml;he</i>
+            </div>
+            <div class="media-body">
+              <p>{{ $.Param "height_max" }}</p>
+            </div>
+              <div class="media">
+                <div class="align-self-start mr-3">
+              <i class="ti-star"> Schwierigkeit: {{ $.Param "difficulty" }}</i>
+            </div>
+          </div>
+        </div>
+          <div class="row">
+              <div class="media">
+            <div class="align-self-start mr-3">
+              <i class="ti-user"> Ausr&uuml;stung: {{ $.Param "equipment" }}</i>
+            </div>
+          </div>
+        </div>
         </div>
         {{ if .Site.Params.post_share }}
         {{ partial "post-share.html" . }}
