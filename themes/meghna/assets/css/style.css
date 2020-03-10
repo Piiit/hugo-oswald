@@ -1742,14 +1742,29 @@ aside.widget {
   width: 32px;
 }
 
-.tour-table td {
-  min-width: 180px;
-  vertical-align: top;
-  font-family: quattrocento sans,sans-serif;
-  font-size: smaller;
+@media (min-width: 460px) {
+  .tour-table td {
+    min-width: 200px;
+    vertical-align: top;
+    font-family: quattrocento sans,sans-serif;
+  }
 }
 
-.tour-table td.i
+@media (max-width: 460px) {
+  .tour-container {
+    padding-left: 0;
+    padding-right: 0;
+    vertical-align: top;
+    font-family: quattrocento sans,sans-serif;
+    font-size: smaller;
+  }
+  .tour-table td {
+    min-width: 180px;
+    vertical-align: top;
+    font-family: quattrocento sans,sans-serif;
+    font-size: smaller;
+  }
+}
 
 .widget-content .tab-content {
   background-color: #2f383d;

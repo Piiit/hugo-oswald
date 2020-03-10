@@ -21,28 +21,49 @@
           <hr />
           {{ .Content }}
           <hr />
-          <table class="tour-table">
-            <tr>
-              <td><i class="ti-direction"> L&auml;nge</i></td>
-              <td>{{ $.Param "length" }}</td>
-            </tr>
-            <tr>
-              <td><i class="ti-alarm-clock"> Reine Gehzeit</i></td>
-              <td>{{ $.Param "time" }}</td>
-            </tr>
-            <tr>
-              <td><i class="ti-ruler"> Max. H&ouml;he</i></td>
-              <td>{{ $.Param "height_max" }}</td>
-            </tr>
-            <tr>
-              <td><i class="ti-star"> Schwierigkeit</i></td>
-              <td>{{ $.Param "difficulty" }}</td>
-            </tr>
-            <tr>
-              <td><i class="ti-user"> Ausr&uuml;stung</i></td>
-              <td>{{ $.Param "equipment" }}</td>
-            </tr>
-          </table>
+          <div class="container-block">
+            <div class="table-responsive">
+              <div class="tour-container">
+                <div class="media p-3">
+                  <div class="align-self-start mr-3">
+                    <i class="ti-announcement"></i>
+                  </div>
+                  <div class="media-body">
+                    <h4 class="media-heading">Informationen</h4>
+                    <table class="tour-table">
+                      <tr>
+                        <td><i class="ti-star"> Schwierigkeit</i></td>
+                        <td>{{ $.Param "difficulty" }}</td>
+                      </tr>
+                      <tr>
+                        <td><i class="ti-direction"> L&auml;nge</i></td>
+                        <td>{{ $.Param "length" }}</td>
+                      </tr>
+                      <tr>
+                        <td><i class="ti-alarm-clock"> Reine Gehzeit</i></td>
+                        <td>{{ $.Param "time" }}</td>
+                      </tr>
+                      <tr>
+                        <td><i class="ti-ruler"> Max. H&ouml;he</i></td>
+                        <td>{{ $.Param "height_max" }}</td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tour-container">
+              <div class="media p-3">
+                <div class="align-self-start mr-3">
+                  <i class="ti-user"></i>
+                </div>
+                <div class="media-body">
+                  <h4 class="media-heading">Ausr&uuml;stung</h4>
+                  {{ $.Param "equipment" }}
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
         {{ if .Site.Params.post_share }}
         {{ partial "post-share.html" . }}
