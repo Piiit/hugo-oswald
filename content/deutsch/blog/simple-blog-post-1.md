@@ -14,7 +14,7 @@ difficulty: Leichter Bergweg
 ---
 
 Gletscher sind Eisströme in Hochgebirgen und Polarländern. Sie entstehen aus
-feinem Schnee, der durch Schmelzen und Wiedergefrieren zusammen= backt. Durch
+feinem Schnee, der durch Schmelzen und Wiedergefrieren zusammenbackt. Durch
 den Druck der eigenen Masse wird aus dem Schnee langsam festes Eis.  Eine
 wunderbare Möglichkeit, mehr über Gletscher zu erfahren, bietet der
 Gletscherpfad im Martelltal.
@@ -24,4 +24,4 @@ Plima als tosenden Gebirgsbach hautnah, dessen Wasser durch eine tiefe Schlucht
 talauswärts strebt und bei Latsch in die Etsch mündet. 
 
 Bei einer Bergweg-Strecke von rund 10 km mit einem Höhenunterschied im Aufstieg
-von ca. 600 m hat diese Wanderung einen ringförmigen Verlauf. 
+von ca. 600m hat diese Wanderung einen ringförmigen Verlauf. 
