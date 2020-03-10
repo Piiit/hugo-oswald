@@ -5,7 +5,7 @@ image_webp: images/blog/gletscherpfadmartell.webp
 image: images/blog/gletscherpfadmartell.jpg
 author: Oswald Moser
 description : "Rundwanderung"
-equipment: Wanderschuhe, Regen.- und Sonnenschutz, genügend Getränke (wir werden in der Martellerhütte einkehren).
+equipment: Wanderschuhe, Regen- und Sonnenschutz, genügend Getränke (wir werden in der Martellerhütte einkehren)
 length: 10km
 height: 600m
 time: 4,5 Stunden
