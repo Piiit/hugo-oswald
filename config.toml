@@ -1,4 +1,4 @@
-baseURL = "https://oswaldmoser.netlify.com/"
+baseURL = "https://oswaldmoser.netlify.app/"
 languageCode = "de-DE"
 title = "Wanderführer Oswald Moser"
 theme = "meghna"
