@@ -16,6 +16,9 @@ contact:
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: ossychristl@gmail.com"
 
+    - icon : ti-image
+      info : "[Oswald auf wanderführer.it](https://www.wanderfuehrer.it/wanderleiter/moser-oswald)"
+
   contact_form :
     - name : "Ihr Namen"
       email : "Ihre Email"

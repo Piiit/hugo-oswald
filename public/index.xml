@@ -6,22 +6,22 @@
     <description>Recent content on Wanderführer Oswald Moser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 08:52:36 +0600</lastBuildDate>
     
 	<atom:link href="https://oswaldmoser.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tourenbeschreibung</title>
+      <title>Gletscherpfad Martelltal &amp; Plima Schlucht</title>
       <link>https://oswaldmoser.netlify.com/blog/simple-blog-post-1/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <pubDate>Wed, 04 Mar 2020 08:52:36 +0600</pubDate>
       
       <guid>https://oswaldmoser.netlify.com/blog/simple-blog-post-1/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <description>Gletscher sind Eisströme in Hochgebirgen und Polarländern. Sie entstehen aus feinem Schnee, der durch Schmelzen und Wiedergefrieren zusammenbackt.</description>
     </item>
     
     <item>
-      <title>Tourenbeschreibung 2</title>
+      <title>Tour #2</title>
       <link>https://oswaldmoser.netlify.com/blog/simple-blog-post-2/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
@@ -30,11 +30,11 @@
     </item>
     
     <item>
-      <title>Tourenbeschreibung 3</title>
-      <link>https://oswaldmoser.netlify.com/blog/simple-blog-post-2-copy/</link>
+      <title>Tour #3</title>
+      <link>https://oswaldmoser.netlify.com/blog/simple-blog-post-3/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://oswaldmoser.netlify.com/blog/simple-blog-post-2-copy/</guid>
+      <guid>https://oswaldmoser.netlify.com/blog/simple-blog-post-3/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     

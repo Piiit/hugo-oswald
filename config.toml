@@ -8,6 +8,10 @@ paginate = "6"
 # post excerpt
 summaryLength = "15"
 
+[params]
+Logo = "images/wanderleiter-logo.png"
+logourl = "https://www.wanderfuehrer.it/wanderleiter/moser-oswald/"
+
 ############################# Navigation ##################################
 [[menu.main]]
 name = "Über mich"

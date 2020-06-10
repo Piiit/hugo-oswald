@@ -9,13 +9,13 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 /*=== MEDIA QUERY ===*/
 html {
   background-color: #353b43;
-  color: #737f8a;
+  color: #dfdfdfaa;
 }
 
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #dfdfdfaa;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -115,7 +115,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #57caccd2;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -211,17 +211,20 @@ a:hover {
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #2c9091;
+  border: 3px solid #57cbcc;
   color: #fff;
   display: inline-block;
   font-size: 14px;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   padding: 10px 35px;
+  font-weight: bold;
   text-transform: uppercase;
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #57cbcc;
+  border: 3px solid #57cbcc;
   color: #fff;
 }
 
@@ -696,9 +699,12 @@ a:hover {
 }
 
 .form-meghna input:hover,
-.form-meghna textarea:hover,
-#contact-submit:hover {
+.form-meghna textarea:hover {
   border-color: #57cbcc;
+}
+
+#contact-submit:hover {
+  background-color: #57cbcc;
 }
 
 .form-meghna ::placeholder {
@@ -706,12 +712,13 @@ a:hover {
 }
 
 #contact-submit {
-  border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #57cbcc;
+  border: 1px solid 57cbcc;
+  background: #2c9091;
   padding: 12px 0;
   width: 100%;
   margin: 0;
 }
+
 
 .google-map #map-canvas {
   height: 400px;

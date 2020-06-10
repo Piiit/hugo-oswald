@@ -24,7 +24,7 @@
 					{{ range .contact_details }}
 					<div class="con-info clearfix">
 						<i class="{{ .icon }}"></i>
-						<span>{{ .info }}</span>
+						<span>{{ .info | markdownify }}</span>
 					</div>
 					{{ end }}
 				</div>
@@ -48,7 +48,7 @@
 						<textarea rows="6" placeholder="{{ i18n "message" }}" class="form-control" name="message" id="message"></textarea>
 					</div>
 					<div id="cf-submit">
-						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="Submit">{{ i18n "submit" }}</button>
+						<button type="submit" id="contact-submit" class="btn-main btn" value="Submit">{{ i18n "submit" }}</button>
 					</div>
 				</form>
 			</div>
