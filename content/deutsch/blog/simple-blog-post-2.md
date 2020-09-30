@@ -1,18 +1,23 @@
 ---
-title: "Tour #2"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
-author: Oswald Moser
-description : "This is meta description"
+title: "Adolf-Munkel-Weg & Villnösser Almen"
+image_webp: images/blog/adolfmunkelweg.webp
+image: images/blog/adolfmunkelweg.jpg
+description : "Winterwanderung"
+equipment: Bergschuhe mit guter Profilsohle und Kälteschutz
+length: 9 km
+height: 450 m
+time: 4 Stunden
+difficulty: Leichter Bergweg
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Der Adolf-Munkel-Weg unterhalb der imposanten Geislernordwänden gehört zu den
+beeindruckendsten Wegen im UNESCO Naturerbe der Dolomiten.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Wir wandern von der Zanser-Alm bequem und ohne große Steigung auf dem  Güterweg
+durch schütteren Wald bergauf. Zwischen den Baumwipfeln ragen immer wieder die
+beeindruckenden Wände und Spitzen der Geisler empor. Knapp unterhalb der
+Tschantschenon-Alm zweigt der Adolf-Munkel-Weg nach Westen ab. Diesem Weg folgen
+wir und wandern, fast eben, vorbei an der  Gschnagenhardt Alm und, auf
+kulinarischer Entdeckungsreise, weiter zur Geisler-Alm. Der Abstieg erfolgt dann
+in Richtung Osten zur Dusler-Alm und weiter durch Wald hinunter zum
+Ausgangspunkt. 

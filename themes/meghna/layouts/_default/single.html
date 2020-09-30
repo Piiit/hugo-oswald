@@ -10,9 +10,13 @@
       <div class="col-lg-8 offset-lg-2 text-center">
         <h1>{{ .Title }}</h1>
         <ul class="list-inline mb-50">
+          {{ if .Params.Author }}
           <li class="list-inline-item"><a
               href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a></li>
+          {{ end }}
+          {{ if .Date }}
           <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
+          {{ end }}
         </ul>
         <img class="img-fluid mb-50" src="{{ .Params.Image | absURL }}" alt="blog-image">
       </div>
@@ -43,10 +47,18 @@
                         <td><i class="ti-alarm-clock"> Reine Gehzeit</i></td>
                         <td>{{ $.Param "time" }}</td>
                       </tr>
+                      {{ if $.Param "height_max" }}
                       <tr>
                         <td><i class="ti-ruler"> Max. H&ouml;he</i></td>
                         <td>{{ $.Param "height_max" }}</td>
                       </tr>
+                      {{ end }}
+                      {{ if $.Param "height" }}
+                      <tr>
+                        <td><i class="ti-ruler"> Aufstieg</i></td>
+                        <td>{{ $.Param "height" }}</td>
+                      </tr>
+                      {{ end }}
                     </table>
                   </div>
                 </div>

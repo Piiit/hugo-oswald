@@ -1,13 +1,11 @@
 ---
 title: "Gletscherpfad Martelltal & Plima Schlucht"
-date: 2020-03-04T08:52:36+06:00
 image_webp: images/blog/gletscherpfadmartell.webp
 image: images/blog/gletscherpfadmartell.jpg
-author: Oswald Moser
 description : "Rundwanderung"
 equipment: Wanderschuhe, Regen- und Sonnenschutz, genügend Getränke (wir werden in der Martellerhütte einkehren)
-length: 10km
-height: 600m
+length: 10 km
+height: 600 m
 time: 4,5 Stunden
 height_max: 2590m
 difficulty: Leichter Bergweg
