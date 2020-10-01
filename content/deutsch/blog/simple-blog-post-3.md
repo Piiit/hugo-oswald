@@ -1,18 +1,21 @@
 ---
-title: "Tour #3"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: Oswald Moser
-description : "This is meta description"
+title: "Herbstwanderung zum Finailhof in Schnals"
+image_webp: images/blog/finailhof.webp
+image: images/blog/finailhof.jpg
+description : "Winterwanderung"
+equipment: Anorak, leichte Bergschuhe und eventuell Regenschutz
+time: 4 bis 4,5 Stunden
+difficulty: Leichter Bergweg
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Die gemütliche Tagestour führt uns zu den Bergbauernhöfen des Schnalstales. 
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Der wohl bekannteste unter ihnen ist der 1973 m hoch gelegene Finailhof (einst
+höchster Kornhof Tirols). Und nicht nur wegen Hellmut von Cubes Südtirol-Satire
+„Mein Leben bei den Trollen“ sollte man diesen geschichtsträchtigen Hof
+erwandern, sondern auch wegen der Schnalser Schneemilch (deftige Nachspeise). 
 
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Der Weg ist sehr abwechslungsreich: Wiesen, Wälder und ein teils steppenartiger
+Felsenweg begleiten uns. Wir genießen die Herbststimmung orange-gelber,
+leuchtender Lärchenwälder, sowie die Aussicht auf den smaragdgrünen Vernagtsee
+und auf die umliegenden Berge, die hoffentlich in der Sonne leuchten. 

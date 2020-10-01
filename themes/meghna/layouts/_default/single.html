@@ -43,10 +43,12 @@
                         <td><i class="ti-direction"> L&auml;nge</i></td>
                         <td>{{ $.Param "length" }}</td>
                       </tr>
+                      {{ if $.Param "time" }}
                       <tr>
                         <td><i class="ti-alarm-clock"> Reine Gehzeit</i></td>
                         <td>{{ $.Param "time" }}</td>
                       </tr>
+                      {{ end }}
                       {{ if $.Param "height_max" }}
                       <tr>
                         <td><i class="ti-ruler"> Max. H&ouml;he</i></td>
