@@ -35,14 +35,18 @@
                   <div class="media-body">
                     <h4 class="media-heading">Informationen</h4>
                     <table class="tour-table">
+                      {{ if $.Param "difficulty" }}
                       <tr>
                         <td><i class="ti-star"> Schwierigkeit</i></td>
                         <td>{{ $.Param "difficulty" }}</td>
                       </tr>
+                      {{ end }}
+                      {{ if $.Param "length" }}
                       <tr>
                         <td><i class="ti-direction"> L&auml;nge</i></td>
                         <td>{{ $.Param "length" }}</td>
                       </tr>
+                      {{ end }}
                       {{ if $.Param "time" }}
                       <tr>
                         <td><i class="ti-alarm-clock"> Reine Gehzeit</i></td>
