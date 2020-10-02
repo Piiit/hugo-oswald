@@ -1,0 +1,1 @@
+JPG: 960x720 95% quality
