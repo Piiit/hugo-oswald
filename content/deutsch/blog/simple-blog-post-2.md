@@ -10,7 +10,7 @@ time: 4 Stunden
 difficulty: Leichter Bergweg
 ---
 
-Der Adolf-Munkel-Weg unterhalb der imposanten Geislernordwänden gehört zu den
+Der Adolf-Munkel-Weg unterhalb den imposanten Geislernordwänden gehört zu den
 beeindruckendsten Wegen im UNESCO Naturerbe der Dolomiten.
 
 Wir wandern von der Zanser-Alm bequem und ohne große Steigung auf dem  Güterweg
