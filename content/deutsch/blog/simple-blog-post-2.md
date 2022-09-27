@@ -1,7 +1,7 @@
 ---
 title: "Adolf-Munkel-Weg & Villnösser Almen"
-image_webp: images/blog/adolfmunkelweg.webp
-image: images/blog/adolfmunkelweg.jpg
+image_webp: images/blog/geislerspitzen.webp
+image: images/blog/geislerspitzen.jpg
 description : "Winterwanderung"
 equipment: Bergschuhe mit guter Profilsohle und Kälteschutz
 length: 9 km
@@ -20,4 +20,4 @@ Tschantschenon-Alm zweigt der Adolf-Munkel-Weg nach Westen ab. Diesem Weg folgen
 wir und wandern, fast eben, vorbei an der  Gschnagenhardt Alm und, auf
 kulinarischer Entdeckungsreise, weiter zur Geisler-Alm. Der Abstieg erfolgt dann
 in Richtung Osten zur Dusler-Alm und weiter durch Wald hinunter zum
-Ausgangspunkt. 
+Ausgangspunkt.

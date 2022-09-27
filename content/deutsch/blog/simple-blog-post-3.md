@@ -1,7 +1,7 @@
 ---
 title: "Herbstwanderung zum Finailhof in Schnals"
-image_webp:
-image: images/blog/finailhof2.png
+image_webp: images/blog/finailhof2.webp
+image: images/blog/finailhof2.jpg
 description : "Winterwanderung"
 equipment: Anorak, leichte Bergschuhe und eventuell Regenschutz
 time: 4 bis 4,5 Stunden
